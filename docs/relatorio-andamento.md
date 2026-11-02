@@ -1,6 +1,6 @@
 # BicoLocal — Relatório de Andamento (Entrega 1)
 
-**Equipe:** Mateus V. de Oliveira, [Integrante 2], [Integrante 3] — **Data:** 03/11/2026
+**Equipe:** Mateus V. de Oliveira, Gabriel M. Machado da Silva, Marcelo Schwartz — **Data:** 03/11/2026\
 **Repositório:** https://github.com/mateusoliveira-hash/bicolocal
 
 **Tema escolhido.** Entre os temas propostos, a equipe escolheu o **BicoLocal** (programa II. Desenvolvimento Regional): um aplicativo que substitui a busca por trabalhadores em grupos de mensagens por uma plataforma centralizada, conectando contratantes de serviços rápidos a pessoas que procuram bicos em Rio do Sul e região.

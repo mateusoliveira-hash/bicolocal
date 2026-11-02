@@ -1,9 +1,9 @@
 # BicoLocal — Documentação do Projeto e Planejamento
 
-**Disciplina:** Desenvolvimento para Plataformas Móveis — Prof. Sandro Alencar Fernandes
-**Curso:** Bacharelado em Sistemas de Informação — UNIDAVI
-**Programa de extensão:** II. Desenvolvimento Regional
-**Equipe:** Mateus V. de Oliveira (programação e documentação), [Integrante 2] ([papel]), [Integrante 3] ([papel])
+**Disciplina:** Desenvolvimento para Plataformas Móveis — Prof. Sandro Alencar Fernandes\
+**Curso:** Bacharelado em Sistemas de Informação — UNIDAVI\
+**Programa de extensão:** II. Desenvolvimento Regional\
+**Equipe:** Mateus V. de Oliveira, Gabriel M. Machado da Silva, Marcelo Schwartz\
 **Repositório:** https://github.com/mateusoliveira-hash/bicolocal
 
 ---
@@ -102,6 +102,6 @@ Estratégia: na Etapa 1 o app usa **dados fictícios em memória**, para concent
 
 | Integrante | Responsabilidades |
 |---|---|
-| Mateus V. de Oliveira | Programação, repositório, documentação técnica |
-| [Integrante 2] | Pesquisa com a comunidade (entrevistas) |
-| [Integrante 3] | Protótipo visual das telas, apresentação e vídeo |
+| Mateus V. de Oliveira | Programação, repositório, documentação técnica, Gravação do vídeo com o projeto finalizado| 
+| Gabriel M. Machado da Silva | Pesquisa com a comunidade (entrevistas) |
+| Marcelo Schwartz | Protótipo visual das telas |
